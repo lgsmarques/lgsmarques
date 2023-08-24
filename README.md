@@ -9,5 +9,5 @@ I'm Guilherme Marques, a game enthusiast and currently working as Software Engin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-guilherme-marques-233823117) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guis_marques) 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=lgsmarques&theme=nightowl&hide_border=true" width="364px" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=lgsmarques&theme=nightowl" width="364px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgsmarques&layout=compact&theme=nightowl" width="364px" />
