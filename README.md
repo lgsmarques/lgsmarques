@@ -10,4 +10,4 @@ I'm Guilherme Marques, a game enthusiast and currently working as Software Engin
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lgsmarques&theme=nightowl) <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lgsmarques&layout=compact&theme=nightowl)
+<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=lgsmarques&layout=compact&theme=nightowl)-->
