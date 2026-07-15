@@ -4,11 +4,11 @@ Software Engineer @QuintoAndar · São Paulo, BR
 
 I build web apps professionally and games for fun. Currently deepening my full-stack and game-dev skills.
 
-💼 Software Engineer at QuintoAndar
-
-🎮 Game dev hobbyist (Unity/C#)
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/guilherme-marques-233823117/) or [Instagram](https://instagram.com/guis_marques) 
+- 💼 Software Engineer at QuintoAndar
+- 🎮 Game dev hobbyist (Unity/C#)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/guilherme-marques-233823117/) or [Instagram](https://instagram.com/guis_marques)
+- 🎓 Bachelor of Business Administration from University of São Paulo
+- 🕹️ Technologist in Game Development from FIAP
 
 ## 🛠 Tech Stack
  
