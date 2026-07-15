@@ -6,9 +6,9 @@ I build web apps professionally and games for fun. Currently deepening my full-s
 
 - 💼 Software Engineer at QuintoAndar
 - 🎮 Game dev hobbyist (Unity/C#)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/guilherme-marques-233823117/) or [Instagram](https://instagram.com/guis_marques)
 - 🎓 Bachelor of Business Administration from University of São Paulo
 - 🕹️ Technologist in Game Development from FIAP
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/guilherme-marques-233823117/) or [Instagram](https://instagram.com/guis_marques)
 
 ## 🛠 Tech Stack
  
