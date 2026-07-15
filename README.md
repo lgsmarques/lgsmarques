@@ -43,11 +43,7 @@ I build web apps professionally and games for fun. Currently deepening my full-s
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-E5E5E5?style=for-the-badge&logo=cypress&color=058a5e)
- 
-## 📊 GitHub Stats
- 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgsmarques&show_icons=true&theme=default&hide_border=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgsmarques&layout=compact&hide_border=true)
- 
+
+<br>
+
 ![Profile views](https://komarev.com/ghpvc/?username=lgsmarques&color=blue)
