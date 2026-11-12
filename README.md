@@ -4,7 +4,7 @@ Software Engineer @QuintoAndar · São Paulo, BR
 
 I build web apps professionally and games for fun. Currently deepening my full-stack and game-dev skills.
 
-- 💼 Software Engineer at QuintoAndar
+- 💼 Software Engineer
 - 🎮 Game dev hobbyist (Unity/C#)
 - 🎓 Bachelor of Business Administration from University of São Paulo
 - 🕹️ Technologist in Game Development from FIAP
